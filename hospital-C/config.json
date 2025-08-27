@@ -1,0 +1,11 @@
+{
+  "port": 3003,
+  "name": "Hospital-C",
+  "localGender": {
+    "male": "male",
+    "female": "female",
+    "other": "other",
+    "unknown": "unknown"
+  },
+  "hieUrl": "http://localhost:4000"
+}

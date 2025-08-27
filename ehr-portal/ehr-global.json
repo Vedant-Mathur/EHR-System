@@ -1,0 +1,59 @@
+{
+  "patients": [
+    {
+      "id": "PT-20250819-LE5FBY",
+      "firstName": "Vedant",
+      "lastName": "Mathur",
+      "dateOfBirth": "2025-07-19",
+      "gender": "male",
+      "phone": "90285728",
+      "address": "bdzxfhbzxhzdsrf",
+      "emergencyContact": "35642662642",
+      "registeredAt": "2025-08-19T12:36:16.686Z",
+      "registeredBy": "nurse001",
+      "status": "active"
+    }
+  ],
+  "encounters": [],
+  "labResults": [],
+  "radiologyReports": [],
+  "diagnoses": [],
+  "prescriptions": [],
+  "users": [
+    {
+      "id": "nurse001",
+      "username": "nurse",
+      "password": "nurse123",
+      "role": "nurse",
+      "name": "Jane Nurse"
+    },
+    {
+      "id": "doctor001",
+      "username": "doctor",
+      "password": "doctor123",
+      "role": "doctor",
+      "name": "Dr. Smith"
+    },
+    {
+      "id": "lab001",
+      "username": "lab",
+      "password": "lab123",
+      "role": "lab",
+      "name": "Lab Tech"
+    },
+    {
+      "id": "radiology001",
+      "username": "radiology",
+      "password": "radiology123",
+      "role": "radiology",
+      "name": "Radiology Tech"
+    },
+    {
+      "id": "pharmacy001",
+      "username": "pharmacy",
+      "password": "pharmacy123",
+      "role": "pharmacy",
+      "name": "Pharmacist"
+    }
+  ]
+}

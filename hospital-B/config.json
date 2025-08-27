@@ -1,0 +1,11 @@
+{
+  "port": 3002,
+  "name": "Hospital-B",
+  "localGender": {
+    "male": "1",
+    "female": "0",
+    "other": "9",
+    "unknown": "8"
+  },
+  "hieUrl": "http://localhost:4000"
+}
